@@ -9,7 +9,7 @@ const Footer = () => {
           <MDBCol md="3" lg="3" xl="4" className="mx-auto mt-3">
             <h6 className="text-uppercase mb-4 font-weight-bold">
               <img src={logo} alt="Book Store App" height="40px" />
-              <strong>BoOKSBOoks</strong>
+              <strong>Books Project Made By Nishant Rajput</strong>
             </h6>
           </MDBCol>
           <hr className="w-100 clearfix d-md-none" />

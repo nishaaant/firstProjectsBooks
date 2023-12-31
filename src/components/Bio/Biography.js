@@ -39,6 +39,7 @@ const Biography = ({ onAddToCart, bioProducts }) => {
                 </Grid>
               ))}
             </Grid>
+            <Footer/>
           </div>
         </>
       </main>
